@@ -1,1 +1,31 @@
-{}
+{
+  [
+    {
+    uuid: "2346755453574767465756",
+    name: "local 1",
+    street: "calle",
+    streetNumber: "152",
+    firstNumber: "# 9",
+    secondNumber: "- 93",
+    complement: "Cedral 4 apto 501"
+  },
+  {
+    uuid: "23467552344534767465756",
+    name: "oficina",
+    street: "carrera",
+    streetNumber: "7",
+    firstNumber: "# 71",
+    secondNumber: "- 21",
+    complement: "Edificio imparpi oficina 1201"
+  },
+  {
+    uuid: "45735675643545",
+    name: "casa",
+    street: "calle",
+    streetNumber: "80",
+    firstNumber: "# 7",
+    secondNumber: "- 100",
+    complement: "Someplace in haven"
+  }
+ ]
+}
